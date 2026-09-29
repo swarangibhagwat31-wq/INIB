@@ -156,7 +156,7 @@ Summarized key findings and provided business recommendations based on the analy
 
 ### Executive Summary Dashboard
 
-![Executive Summary]()
+![Executive Summary](https://github.com/swarangibhagwat31-wq/INIB/blob/main/screenshots/Executive%20summary%20dashboard.png)
 
 ### Product Performance Dashboard
 
