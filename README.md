@@ -160,7 +160,7 @@ Summarized key findings and provided business recommendations based on the analy
 
 ### Product Performance Dashboard
 
-![Product Analysis]()
+![Product Analysis](https://github.com/swarangibhagwat31-wq/INIB/blob/main/screenshots/Product%20performance%20analysis.png)
 
 ### Customer & Regional Analysis Dashboard
 
