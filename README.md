@@ -168,7 +168,7 @@ Summarized key findings and provided business recommendations based on the analy
 
 ### Profitability & Insights Dashboard
 
-![Profitability Analysis]()
+![Profitability Analysis](https://github.com/swarangibhagwat31-wq/INIB/blob/main/screenshots/Profitability%20%26%20Business%20insights.png)
 
 ---
 
