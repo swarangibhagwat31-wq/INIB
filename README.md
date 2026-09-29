@@ -160,7 +160,7 @@ Summarized key findings and provided business recommendations based on the analy
 
 ### Product Performance Dashboard
 
-![Product Analysis](screenshots/Product performance analysis.png)
+![Product Analysis]()
 
 ### Customer & Regional Analysis Dashboard
 
