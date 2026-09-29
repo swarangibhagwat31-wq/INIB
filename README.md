@@ -164,7 +164,7 @@ Summarized key findings and provided business recommendations based on the analy
 
 ### Customer & Regional Analysis Dashboard
 
-![Customer Analysis]()
+![Customer Analysis](https://github.com/swarangibhagwat31-wq/INIB/blob/main/screenshots/Customer%20%26%20Regional%20analysis.png)
 
 ### Profitability & Insights Dashboard
 
